@@ -35,6 +35,6 @@ public class SearchRSA {
         SearchRSA rsa = new SearchRSA();
         int result = rsa.search(nums, 0);
         System.out.println("The input Array is: " + Arrays.toString(nums));
-        System.out.println("The reuiqred output is: " + rsa);
+        System.out.println("The reuiqred output is: " + result);
     }
 }
